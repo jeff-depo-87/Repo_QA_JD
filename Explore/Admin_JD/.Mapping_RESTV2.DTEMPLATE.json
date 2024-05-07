@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
-        "contentType" : null,
+        "description" : "Adding a description",
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-05-07T14:57:26.189Z",
+  "updateTime" : "2024-05-07T15:01:32.188Z",
   "objectRefs" : [ {
     "id" : "9rfQbtHRubLbwtVwdgy9AX",
     "name" : "OpenWeather_RESTv2_Connection",
